@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <Article />
-      <Comment />
+      <Comment />Mukoya
     </div>
   );
 }
